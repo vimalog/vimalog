@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vimalog
+- 👋 Hi, I’m @ vimal
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning web programming.
-- 💞️ I’m looking to collaborate on problem solving.
+- 🌱 I’m currently learning full stack developing.
+- 💞️ I’m looking to collaborate on problem solving and minor projects.
 - 📫 How to reach me vimalkumarog@gmail.com
